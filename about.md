@@ -16,7 +16,7 @@ What else do you need?
 Geschnuppert werden darf an allen regulären Pfadinachmittagen. Die Termine findest du in unserem Jahresprogramm im Downloadbereich.
 
 Über eine Voranmeldung via Mail oder SMS/WhatsApp würden wir uns sehr freuen:
-abteilung@pfadithierstein.ch / +41 76 304 17 33 (Zirpa).
+[abteilung@pfadithierstein.ch](mailto:abteilung@pfadithierstein.ch) / +41 76 304 17 33 (Zirpa).
 
 ### Pfadilager
 Zwei Mal im Jahr finden tolle Lager statt. Das 3-tägige Zeltlager Pfila an Pfingsten und das Sommerlager in den Sommerferien, welches eine Woche dauert. Die Lager prägen die persönliche Entwicklung des Pfadikindes besonders und sind jeweils ein tolles Erlebnis!
