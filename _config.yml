@@ -20,11 +20,10 @@ author: Chip
 ###############################################
 
 navbar-links:
-  Über Uns: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Über Uns: "about"
+  Leitungsteam: "team"
+  Bilder: "pictures"
+  Downloads: "downloads"
 
 ################
 # --- Logo --- #
@@ -53,15 +52,15 @@ social-network-links:
   email: "abteilung@example.com"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
   facebook: PfadiThierstein
-  youtube: "@daattali"
-  whatsapp: 15551212
+  instagram: pfadithierstein
+#  youtube: "@daattali"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: pfadithierstein
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -82,7 +81,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: RSS Feed (Experimental!)
 
 ###########################
 # --- General options --- #
@@ -92,6 +91,7 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: false
   facebook: true
+  instagram: true
   linkedin: false
   vk: false
 
@@ -112,10 +112,10 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
@@ -124,6 +124,7 @@ navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
+keywords: "pfadi,thierstein,stein,scout,jugendverband"
 
 ######################################
 # --- Colours / background image --- #
