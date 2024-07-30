@@ -1,15 +1,104 @@
 ---
 
+# ALs
+#
+
 - name: Zirpa
   full_name: Jill Raimann
   functions:
     - Abteilungsleiterin
     - Leiterin Wolfsstufe
-  picture: "/assets/pictures/team/zirpa.jpg"
+  group: Abteilungsleiter
 
 - name: Licorne
   full_name: Vanessa Stadelmann
   functions:
     - Abteilungsleiterin
     - Leiterin Wolfsstufe
-  
+  group: Abteilungsleiter
+
+# Wolfsstufe
+#
+
+- name: Samsi
+  full_name: Elias Schwaiger
+  functions:
+    - Stufenleiter
+  group: Wolfsstufe
+
+- name: Fidelio
+  full_name: Stefan Rehmann
+  functions:
+    - Leiter
+    - NVS-Komitee
+  group: Wolfsstufe
+
+- name: Maki
+  full_name: Salome Schwaiger
+  functions:
+    - Leiterin
+  group: Wolfsstufe
+
+- name: Django
+  full_name: Lars Schürch
+  functions:
+    - Leiter
+  group: Wolfsstufe
+
+
+
+# Pfadistufe
+#
+
+- name: Kjara
+  full_name: Alida Schmid
+  functions:
+    - Stufenleiterin
+    - Hauptlagerleitung
+  group: Pfadistufe
+
+- name: Zazoo
+  full_name: Jessica Müller
+  functions:
+    - Leiterin
+  group: Pfadistufe
+
+- name: Rabbit
+  full_name: Benjamin Schär
+  functions:
+    - Leiter
+  group: Pfadistufe
+
+- name: Zwaschpel
+  full_name: Philipp Rehmann
+  functions:
+    - Leiter
+  group: Pfadistufe
+
+
+# Weitere
+#
+
+- name: Skippy
+  full_name: Chris Schär
+  functions:
+    - Verantwortlicher Pfadiheim
+  group: Weitere
+
+- name: Gorky
+  full_name: Philipp Stocker
+  functions:
+    - Kassier
+  group: Weitere
+
+- name: Ciri
+  full_name: Lynn Raimann
+  functions:
+    - Küchenchefin
+  group: Weitere
+
+- name: Chip
+  full_name: Patrick Hasler
+  functions:
+    - Webauftritt
+  group: Weitere
