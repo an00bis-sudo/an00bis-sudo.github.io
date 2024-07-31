@@ -6,11 +6,9 @@ subtitle: Die Pfadi Thierstein Stein im Fricktal
 
 Familiär, dynamisch und in den Abteilungsfarben Blau, Rot, Weiss sind wir seit 1964 aktiv. Die Pfadi ist der grösste Jugendverband der Schweiz und die Abteilung Thierstein Stein repräsentiert die Pfadibewegung hier im Fricktal.
 
-- 20 - 30 aktive Teilnehmer
-- ca. 10 Leiter & Rover
-- Wolfstufe (7 - 11 Jährige) & Pfadistufe (12+ Jährige)
-
-What else do you need?
+- Zwischen 20 und 30 aktive Teilnehmer
+- [Ca. 10 Leiter & Rover](/team)
+- Wolfsstufe (7 - 11 Jährige) & Pfadistufe (12+ Jährige)
 
 ### Pfadiluft schnuppern
 Geschnuppert werden darf an allen regulären Pfadinachmittagen. Die Termine findest du in unserem Jahresprogramm im Downloadbereich.
