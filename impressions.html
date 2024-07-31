@@ -1,0 +1,14 @@
+---
+layout: page
+title: Eindrücke
+subtitle: Einblicke in den Pfadialltag
+---
+
+Hier sind einige Eindrücke aus unserem Pfadialltag. Um die Privatsphäre unserer Teilnehmer zu schützen, erhalten nur Pfadimitglieder vollen Zugang zu unseren Pfadibildern. Meldet euch hierzu bei der Abteilungsleitung über die bekannten Kanäle.
+
+{% assign impression_pictures = site.static_files | where: "impressions", true %}
+<ul class="photo-gallery">
+{% for image in impression_pictures %}
+  <li><img src="{{ image.path }}" alt="{{ image.basename }}"/></li>
+{% endfor %}
+</ul>

@@ -97,7 +97,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Pfadithierstein.ch"
+url-pretty: "pfadithierstein.ch"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -282,6 +282,11 @@ defaults:
       path: "assets/downloads"
     values:
       downloads: true
+  - scope:
+      path: "img/pictures/impressions"
+    values:
+      impressions: true
+
 
 # Exclude these files from production site
 exclude:
