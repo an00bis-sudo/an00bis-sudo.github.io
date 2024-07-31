@@ -283,7 +283,7 @@ defaults:
     values:
       downloads: true
   - scope:
-      path: "img/pictures/impressions"
+      path: "assets/pictures/impressions"
     values:
       impressions: true
 
