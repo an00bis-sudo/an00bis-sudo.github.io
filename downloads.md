@@ -24,7 +24,7 @@ Dieses Dokument enthält eine Sammlung der wichtigsten Infos für den Pfadiallta
 ---
 
 # Alles
-% assign download_files = site.static_files | where: "downloads", true %}
-% for dl in download_files %}
+{% assign download_files = site.static_files | where: "downloads", true %}
+{% for dl in download_files %}
 - [{{ dl.basename }}]({{ dl.path }})
 {% endfor %}
