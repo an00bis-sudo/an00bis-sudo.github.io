@@ -8,12 +8,9 @@ forms:
     subject: Badespass
     redirect: /
     form_engine: formspree
-    placeholders: false
+    placeholders: true
     fields:
-      - name: Vorname
-        required: true
-        input_type: text
-      - name: Nachname
+      - name: name
         required: true
         input_type: text
       - name: Pfadiname
@@ -28,8 +25,12 @@ forms:
         input_type: textarea
         required: false
       - name: Absenden
-        input_type: submit
         required: true
+        input_type: submit
+        placeholder: Absenden
+
 ---
+
+<h1>{{ page.forms[0].subject }}</h1>
 
 {% if page.forms[0] %}{% include form.html form="1" %}{% endif %}
