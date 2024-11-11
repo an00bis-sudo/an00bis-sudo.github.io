@@ -1,4 +1,8 @@
 ---
+layout: page
+title: Formulare
+subtitle: Formulare
+
 forms:
   - to: abteilung@pfadithierstein.ch
     subject: Badespass
@@ -27,3 +31,5 @@ forms:
         input_type: submit
         required: true
 ---
+
+{% if page.forms[0] %}{% include form.html form="1" %}{% endif %}
