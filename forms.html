@@ -10,20 +10,41 @@ forms:
     form_engine: formspree
     placeholders: true
     fields:
-      - name: name
+      - name: Vorname
         required: true
         input_type: text
+        placeholder: Vorname
+
+      - name: Nachname
+        required: true
+        input_type: text
+        placeholder: Nachname
+
       - name: Pfadiname
         required: false
         input_type: text
+        placeholder: Pfadiname
+
+      - name: E-Mail
+        required: true
+        input_type: email
+        placeholder: E-Mail Adresse
+
       - name: Anmeldebestätigung
         required: true
-        input_type: checkbox
+        input_type: radio
         placeholder: Ich nehme am Anlass teil
+
+      - name: Anmeldebestätigung
+        required: true
+        input_type: radio
+        placeholder: Ich kann leider nicht teilnehmen
+
       - name: Was ich noch mitteilen möchte
         required: false
         input_type: textarea
         required: false
+
       - name: Absenden
         required: true
         input_type: submit
@@ -32,5 +53,6 @@ forms:
 ---
 
 <h1>{{ page.forms[0].subject }}</h1>
-
+<h2>12.12.2025<h2>
+<br>
 {% if page.forms[0] %}{% include form.html form="1" %}{% endif %}
