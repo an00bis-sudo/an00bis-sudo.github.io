@@ -9,6 +9,9 @@ subtitle: Unser Leitungsteam
 {% assign pfadi = site.data.members | where: "group", "Pfadistufe" %}
 {% assign weitere = site.data.members | where: "group", "Weitere" %}
 
+
+![](/assets/pictures/team/leitungsteam.jpg)
+
 # Abteilungsleitung
 {% for member in ALs %}
 ### {{ member.name }} ({{ member.full_name }})
