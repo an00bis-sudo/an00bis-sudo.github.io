@@ -1,4 +1,7 @@
 .photo-gallery {
   list-style-type: none;
-  margin: 20px;
+  list-style-position: inside;
+  margin-top: 15px;
+  padding: 0;
+  text-align: center;
 }
