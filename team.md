@@ -17,7 +17,7 @@ Kontaktmail: [abteilung@pfadithierstein.ch](mailto:abteilung@pfadithierstein.ch)
 {% for member in ALs %}
 ### {{ member.name }} ({{ member.full_name }})
 #### {{ member.functions | join: ', ' }}
-![](/assets/pictures/team/{{ member.name | downcase }}.jpg)
+<img src="/assets/pictures/team/{{ member.name | downcase }}.jpg" class=member_img />
 
 ---
 {% endfor %}
