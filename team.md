@@ -13,20 +13,24 @@ subtitle: Unser Leitungsteam
 ![](/assets/pictures/team/leitungsteam.jpg)
 
 # Abteilungsleitung
-Kontaktmail: [abteilung@pfadithierstein.ch](mailto:abteilung@pfadithierstein.ch)
 {% for member in ALs %}
 ### {{ member.name }} ({{ member.full_name }})
 #### {{ member.functions | join: ', ' }}
+{% if member.contact %}
+#### [{{ member.contact }}](mailto:{{ member.contact }})
+{% endif %}
 <img src="/assets/pictures/team/{{ member.name | downcase }}.jpg" class=member_img />
 
 ---
 {% endfor %}
 
 # Wolfsstufe
-Kontaktmail: [wolfsstufe@pfadithierstein.ch](mailto:wolfsstufe@pfadithierstein.ch)
 {% for member in wolf %}
 ### {{ member.name }} ({{ member.full_name }})
 #### {{ member.functions | join: ', ' }}
+{% if member.contact %}
+#### {{ member.contact }}
+{% endif %}
 ![](/assets/pictures/team/{{ member.name | downcase }}.jpg)
 
 ---
