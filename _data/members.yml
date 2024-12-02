@@ -9,6 +9,7 @@
     - Abteilungsleiterin
     - Leiterin Wolfsstufe
   group: Abteilungsleiter
+  contact: abteilung@pfadithierstein.ch
 
 - name: Licorne
   full_name: Vanessa Stadelmann
@@ -16,6 +17,7 @@
     - Abteilungsleiterin
     - Leiterin Wolfsstufe
   group: Abteilungsleiter
+  contact: abteilung@pfadithierstein.ch
 
 # Wolfsstufe
 #
@@ -25,6 +27,7 @@
   functions:
     - Stufenleiter
   group: Wolfsstufe
+  contact: wolfsstufe@pfadithierstein.ch
 
 - name: Fidelio
   full_name: Stefan Rehmann
@@ -56,6 +59,7 @@
     - Stufenleiterin
     - Hauptlagerleitung
   group: Pfadistufe
+  contact: pfadistufe@pfadithierstein.ch
 
 - name: Zazoo
   full_name: Jessica Müller
