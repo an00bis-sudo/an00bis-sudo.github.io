@@ -20,7 +20,9 @@ subtitle: Unser Leitungsteam
 {% if member.contact %}
 #### [{{ member.contact }}](mailto:{{ member.contact }})
 {% endif %}
+{% if static_file.path == "/assets/pictures/team/{{ member.name | downcase }}.jpg" %}
 <img src="/assets/pictures/team/{{ member.name | downcase }}.jpg" class=member_img />
+{% endif %}
 
 ---
 {% endfor %}
@@ -62,7 +64,9 @@ subtitle: Unser Leitungsteam
 {% if member.contact %}
 #### [{{ member.contact }}](mailto:{{ member.contact }})
 {% endif %}
+{% if static_file.path == "/assets/pictures/team/{{ member.name | downcase }}.jpg" %}
 <img src="/assets/pictures/team/{{ member.name | downcase }}.jpg" class=member_img />
+{% endif %}
 
 ---
 {% endfor %}
