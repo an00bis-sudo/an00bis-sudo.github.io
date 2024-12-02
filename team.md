@@ -20,7 +20,7 @@ subtitle: Unser Leitungsteam
 {% if member.contact %}
 #### [{{ member.contact }}](mailto:{{ member.contact }})
 {% endif %}
-<img src="/assets/pictures/team/{{ member.name | downcase }}.jpg" class=member_img />
+<img src="/assets/pictures/team/{{ member.name | downcase }}.jpg" class=member_img alt="Noch kein Bild von {{ member.name}} 📸"/>
 
 ---
 {% endfor %}
@@ -34,7 +34,7 @@ subtitle: Unser Leitungsteam
 {% if member.contact %}
 #### [{{ member.contact }}](mailto:{{ member.contact }})
 {% endif %}
-<img src="/assets/pictures/team/{{ member.name | downcase }}.jpg" class=member_img alt="{{ member.name}}"/>
+<img src="/assets/pictures/team/{{ member.name | downcase }}.jpg" class=member_img alt="Noch kein Bild von {{ member.name}} 📸"/>
 
 ---
 {% endfor %}
@@ -48,7 +48,7 @@ subtitle: Unser Leitungsteam
 {% if member.contact %}
 #### [{{ member.contact }}](mailto:{{ member.contact }})
 {% endif %}
-<img src="/assets/pictures/team/{{ member.name | downcase }}.jpg" class=member_img />
+<img src="/assets/pictures/team/{{ member.name | downcase }}.jpg" class=member_img alt="Noch kein Bild von {{ member.name}} 📸"/>
 
 ---
 {% endfor %}
@@ -62,7 +62,7 @@ subtitle: Unser Leitungsteam
 {% if member.contact %}
 #### [{{ member.contact }}](mailto:{{ member.contact }})
 {% endif %}
-<img src="/assets/pictures/team/{{ member.name | downcase }}.jpg" class=member_img />
+<img src="/assets/pictures/team/{{ member.name | downcase }}.jpg" class=member_img alt="Noch kein Bild von {{ member.name}} 📸"/>
 
 ---
 {% endfor %}
