@@ -9,10 +9,11 @@ subtitle: Unser Leitungsteam
 {% assign pfadi = site.data.members | where: "group", "Pfadistufe" %}
 {% assign weitere = site.data.members | where: "group", "Weitere" %}
 
+<img src="/assets/pictures/team/leitungsteam.jpg" class=member_img />
 
-![](/assets/pictures/team/leitungsteam.jpg)
 
 # Abteilungsleitung
+---
 {% for member in ALs %}
 ### {{ member.name }} ({{ member.full_name }})
 #### {{ member.functions | join: ', ' }}
@@ -24,33 +25,44 @@ subtitle: Unser Leitungsteam
 ---
 {% endfor %}
 
+
 # Wolfsstufe
+---
 {% for member in wolf %}
 ### {{ member.name }} ({{ member.full_name }})
 #### {{ member.functions | join: ', ' }}
 {% if member.contact %}
-#### {{ member.contact }}
+#### [{{ member.contact }}](mailto:{{ member.contact }})
 {% endif %}
-![](/assets/pictures/team/{{ member.name | downcase }}.jpg)
+<img src="/assets/pictures/team/{{ member.name | downcase }}.jpg" class=member_img />
 
 ---
 {% endfor %}
 
+
 # Pfadistufe
-Kontaktmail: [pfadistufe@pfadithierstein.ch](mailto:pfadistufe@pfadithierstein.ch)
+---
 {% for member in pfadi %}
 ### {{ member.name }} ({{ member.full_name }})
 #### {{ member.functions | join: ', ' }}
-![](/assets/pictures/team/{{ member.name | downcase }}.jpg)
+{% if member.contact %}
+#### [{{ member.contact }}](mailto:{{ member.contact }})
+{% endif %}
+<img src="/assets/pictures/team/{{ member.name | downcase }}.jpg" class=member_img />
 
 ---
 {% endfor %}
 
+
 # Ämter
+---
 {% for member in weitere %}
 ### {{ member.name }} ({{ member.full_name }})
 #### {{ member.functions | join: ', ' }}
-![](/assets/pictures/team/{{ member.name | downcase }}.jpg)
+{% if member.contact %}
+#### [{{ member.contact }}](mailto:{{ member.contact }})
+{% endif %}
+<img src="/assets/pictures/team/{{ member.name | downcase }}.jpg" class=member_img />
 
 ---
 {% endfor %}
