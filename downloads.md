@@ -21,6 +21,8 @@ Die Pfadi gefällt dir und do möchtest dem Verein offiziel Beitreten? Dann fül
 Dieses Dokument enthält eine Sammlung der wichtigsten Infos für den Pfadialltag. Seid ihr neu in der Pfadi, empfehlen wir euch unbedingt dieses zu lesen.
 ### [Download](/assets/downloads/Pfadi_Allgemeine_Infos.pdf)
 
+
+{% comment %} removed for now
 ---
 
 # Alles
@@ -28,3 +30,4 @@ Dieses Dokument enthält eine Sammlung der wichtigsten Infos für den Pfadiallta
 {% for dl in download_files %}
 - [{{ dl.basename }}]({{ dl.path }})
 {% endfor %}
+{% endcomment %}
