@@ -21,6 +21,9 @@ Die Pfadi gefällt dir und do möchtest dem Verein offiziel Beitreten? Dann fül
 Dieses Dokument enthält eine Sammlung der wichtigsten Infos für den Pfadialltag. Seid ihr neu in der Pfadi, empfehlen wir euch unbedingt dieses zu lesen.
 ### [Download](/assets/downloads/Pfadi_Allgemeine_Infos.pdf)
 
+# Kulturlegi Fact-Sheet
+Merkblatt zur Kulturlegi. Kinder und Jugendliche, welche im Besitz einer Kulturlegi sind, erhalten bei Pfadiabteilungen im ganzen Kanton Aargau 50% Rabatt auf Lagerbeiträge und Mitgliederbeiträge.
+### [Download](/assets/downloads/Pfadi_Kulturlegi.pdf)
 
 {% comment %} removed for now
 ---
