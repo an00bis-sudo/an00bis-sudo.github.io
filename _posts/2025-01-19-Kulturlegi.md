@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kutlurlegi
+title: Kulturlegi
 subtitle: Wir machen mit beim Kulturlegi-Angebot
 cover-img: /assets/img/kulturlegi_logo.png
 thumbnail-img: /assets/img/kulturlegi_logo.png
