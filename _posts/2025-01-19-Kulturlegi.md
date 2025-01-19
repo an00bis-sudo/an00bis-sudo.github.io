@@ -2,7 +2,6 @@
 layout: post
 title: Kulturlegi
 subtitle: Wir machen mit beim Kulturlegi-Angebot
-cover-img: /assets/img/kulturlegi_logo.png
 thumbnail-img: /assets/img/kulturlegi_logo.png
 tags: [info]
 author: Chip
