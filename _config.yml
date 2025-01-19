@@ -49,7 +49,7 @@ title-img: "/assets/img/logo_pbs.png"
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "abteilung@example.com"
+  email: "abteilung@pfadithierstein.ch"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
   facebook: PfadiThierstein
   instagram: pfadithierstein
@@ -81,7 +81,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: RSS Feed (Experimental!)
+#rss-description: RSS Feed (Experimental!)
 
 ###########################
 # --- General options --- #
@@ -123,7 +123,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "pfadi,thierstein,stein,scout,jugendverband"
+keywords: "pfadi,thierstein,stein,scout,jugendverband,pbs,pfadiaargau,fricktal,aargau,j+s,jugendundsport"
 
 ######################################
 # --- Colours / background image --- #
@@ -155,7 +155,7 @@ footer-hover-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 site-css:
-  - "/assets/css/photogallery.css"
+  - "/assets/css/custom.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
@@ -271,8 +271,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      comments: false  # add comments to all blog posts
+      social-share: false # add social media sharing buttons to all blog posts
   - scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
