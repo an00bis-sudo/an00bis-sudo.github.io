@@ -1,5 +1,6 @@
 ---
 
+##
 # ALs
 #
 
@@ -20,6 +21,8 @@
   group: Abteilungsleiter
   contact: abteilung@pfadithierstein.ch
 
+
+##
 # Wolfsstufe
 #
 
@@ -50,7 +53,7 @@
   group: Wolfsstufe
 
 
-
+##
 # Pfadistufe
 #
 
@@ -81,6 +84,7 @@
   group: Pfadistufe
 
 
+##
 # Weitere
 #
 
@@ -88,6 +92,7 @@
   full_name: Chris Schär
   functions:
     - Verantwortlicher Pfadiheim
+    - Materialwart
   group: Weitere
 
 - name: Gorky
