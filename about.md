@@ -8,7 +8,7 @@ Familiär, dynamisch und in den Abteilungsfarben Blau, Rot, Weiss sind wir seit 
 
 - Zwischen 20 und 30 aktive Teilnehmer
 - [Ca. 10 Leiter & Rover](/team)
-- Wolfsstufe (7 - 10 Jährige) & Pfadistufe (11+ Jährige)
+- Wolfsstufe (6 - 10 Jährige) & Pfadistufe (10+ Jährige)
 
 
 ### Pfadiluft schnuppern
