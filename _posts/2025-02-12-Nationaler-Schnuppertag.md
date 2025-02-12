@@ -15,3 +15,4 @@ Treffpunkt ist um 14:00 Uhr beim Pfadiheim Stein.
 Für ein feines z’Vieri wird gesorgt.
 
 Mitnehmen müsst ihr wetterentsprechende Kleidung und gutes Schuhwerk. Die Aktivität endet um 17:00 Uhr.
+![](/assets/pictures/schnuppertag/schnuppertag2025_2.jpg)
