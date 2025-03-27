@@ -46,12 +46,11 @@
     - Leiterin
   group: Wolfsstufe
 
-- name: Django
-  full_name: Lars Schürch
+- name: Vespa
+  full_name: Esmeralda Sammartano
   functions:
-    - Leiter
+    - Leiterin
   group: Wolfsstufe
-
 
 ##
 # Pfadistufe
@@ -83,6 +82,11 @@
     - Leiter
   group: Pfadistufe
 
+- name: Django
+  full_name: Lars Schürch
+  functions:
+    - Leiter
+  group: Pfadistufe
 
 ##
 # Weitere
