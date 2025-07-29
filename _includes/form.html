@@ -12,7 +12,7 @@
     <form id="{{ page.url | slugify }}" class="form autofill" method="POST" action="{{ pageform.redirect }}">
         <input type="hidden" name="_to" value="{{ pageform.to }}">
 {% elsif pageform.form_engine == 'formspree' %}
-    <form id="{{ page.url | slugify }}" class="form autofill" method="POST" action="https://formspree.io/{{ pageform.to }}">
+    <form id="{{ page.url | slugify }}" class="form autofill" method="POST" action="{{ pageform.action }}">
         <input type="hidden" name="_next" value="{{ site.url }}{{ pageform.redirect }}" />
 {% elsif pageform.form_engine == 'formbucket' %}
     <form id="{{ page.url | slugify }}" class="form autofill" method="POST" action="{{ pageform.to }}">
