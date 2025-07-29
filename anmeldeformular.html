@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Formulare
-subtitle: Formulare
+title: Anmeldeformular
+subtitle: Mitgliedschaftsanmeldung Pfadi Thierstein
 
 forms:
   - to: abteilung@pfadithierstein.ch
     subject: Mitgliedschaftsanmeldung Pfadi Thierstein
     redirect: /
     form_engine: formspree
+    action: https://formspree.io/f/mpwlrkwe
     placeholders: true
     fields:
       - name: Vorname
@@ -41,10 +42,12 @@ forms:
       - name: Handy-Nummer Mutter
         required: true
         input_type: text
+        placeholder: Handy-Nummer der Mutter
 
       - name: Handy-Nummer Vater
         required: true
         input_type: text
+        placeholder: Handy-Nummer des Vaters
 
       - name: Bestätigung Datenschutzerklärung
         input_type: checkbox
@@ -64,8 +67,8 @@ forms:
 
 ---
 
-<h1>{{ page.forms[0].subject }}</h1>
+<!--<h1>{{ page.forms[0].subject }}</h1>-->
 <br>
 {% if page.forms[0] %}{% include form.html form="1" %}{% endif %}
 <br>
-<li href="https://pfadi.swiss/de/verband/datenschutz/dse/">Datenschutzerklärung Pfadibewegung Schweiz</li>
+<a href="https://pfadi.swiss/de/verband/datenschutz/dse/">Datenschutzerklärung der Pfadibewegung Schweiz</a>
