@@ -26,10 +26,10 @@
 # Wolfsstufe
 #
 
-- name: Samsi
-  full_name: Elias Schwaiger
+- name: Zazoo
+  full_name: Jessica Müller
   functions:
-    - Stufenleiter
+    - Stufenleiterin
   group: Wolfsstufe
   contact: wolfsstufe@pfadithierstein.ch
 
@@ -46,38 +46,37 @@
     - Leiterin
   group: Wolfsstufe
 
-- name: Vespa
-  full_name: Esmeralda Sammartano
+- name: Clumsy
+  full_name: Alain Ulrich
+  functions:
+    - Leiter
+  group: Wolfsstufe
+
+- name: Pepita
+  full_name: Sarina Frangi
   functions:
     - Leiterin
   group: Wolfsstufe
-
+  
 ##
 # Pfadistufe
 #
 
-- name: Kjara
-  full_name: Alida Schmid
+- name: Zwaschpel
+  full_name: Philipp Rehmann
   functions:
-    - Stufenleiterin
-    - Hauptlagerleitung
+    - Stufenleiter
   group: Pfadistufe
   contact: pfadistufe@pfadithierstein.ch
 
-- name: Zazoo
-  full_name: Jessica Müller
-  functions:
-    - Leiterin
-  group: Pfadistufe
-
-- name: Rabbit
-  full_name: Benjamin Schär
+- name: Samsi
+  full_name: Elias Schwaiger
   functions:
     - Leiter
   group: Pfadistufe
 
-- name: Zwaschpel
-  full_name: Philipp Rehmann
+- name: Rabbit
+  full_name: Benjamin Schär
   functions:
     - Leiter
   group: Pfadistufe
@@ -91,7 +90,12 @@
 ##
 # Weitere
 #
-
+- name: Kjara
+  full_name: Alida Schmid
+  functions:
+    - Hauptlagerleitung
+  group: Weitere
+  
 - name: Skippy
   full_name: Chris Schär
   functions:
