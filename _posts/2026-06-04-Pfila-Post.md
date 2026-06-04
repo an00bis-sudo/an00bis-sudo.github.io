@@ -2,7 +2,7 @@
 layout: post
 title: Pfingstlager 2026
 subtitle: Die Suche nach Erna
-cover-img: /assets/pictures/pfila26/pfila26.JPG 
+cover-img: /assets/pictures/pfila26/pfila26_10.JPG 
 thumbnail-img: /assets/pictures/pfila26/pfila26_01.jpeg
 tags: [blog, lager, pfila]
 author: Licorne
