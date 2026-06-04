@@ -16,7 +16,6 @@ Nachdem Erna gefunden worden war, verbrachten die Teilnehmenden Zeit mit ihr und
 
 ![](/assets/pictures/pfila26/pfila26_02.jpeg) 
 ![](/assets/pictures/pfila26/pfila26_03.jpeg)
-![](/assets/pictures/pfila26/pfila26_04.jpeg)
 ![](/assets/pictures/pfila26/pfila26_05.jpeg)
 ![](/assets/pictures/pfila26/pfila26_06.JPG)
 ![](/assets/pictures/pfila26/pfila26_07.jpeg)
