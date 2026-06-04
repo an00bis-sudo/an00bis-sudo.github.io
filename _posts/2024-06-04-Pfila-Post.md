@@ -4,7 +4,6 @@ title: Pfingstlager 2026
 subtitle: Die Suche nach Erna
 cover-img: /assets/pictures/pfila26/pfila26.JPG 
 thumbnail-img: /assets/pictures/pfila26/pfila26_01.jpeg
-share-img: /assets/pictures/sola26/sola26_02.jpeg
 tags: [blog, lager, pfila]
 author: Licorne
 ---
@@ -15,7 +14,7 @@ Im diesjährigen Pfingstlager drehte sich alles um Oma Erna, eine ehemalige Astr
 Gemeinsam machten sich die Teilnehmenden auf die Suche nach der verschollenen Oma Erna. Im Altersheim, das während des Lagers als Ausgangspunkt diente, sammelten sie erste Hinweise zu ihrem Verbleib. Sie entschlüsselten Notizen, lösten Rätsel und fanden heraus, weshalb die Rakete abgestürzt war. Mit den gesammelten Informationen konnten sie den möglichen Absturzort eingrenzen. Dort entdeckten sie verschiedene persönliche Gegenstände von Erna, die sie schliesslich zu ihr führten.
 Nachdem Erna gefunden worden war, verbrachten die Teilnehmenden Zeit mit ihr und halfen ihr bei den nächsten Herausforderungen. Da ihr Rollator beim Absturz beschädigt worden war, bauten sie gemeinsam einen neuen. Neben der Suche nach Erna standen zahlreiche Spiele, sportliche Aktivitäten und ein spannendes Nachtprogramm auf dem Programm. Den Abschluss bildete ein Lottoabend, an dem Ernas Rückkehr gefeiert wurde. So ging ein abwechslungsreiches Pfingstlager voller Abenteuer, Teamgeist und unvergesslicher Erlebnisse zu Ende.
 
-Ein Bild im Post:
+(/assets/pictures/pfila26/pfila26_02.jpeg)
 (/assets/pictures/pfila26/pfila26_03.jpeg)
 (/assets/pictures/pfila26/pfila26_04.jpeg)
 (/assets/pictures/pfila26/pfila26_05.jpeg)
