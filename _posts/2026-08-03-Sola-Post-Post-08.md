@@ -1,0 +1,20 @@
+---
+layout: post
+title: Sommerlager 2026 mit der Pfadi Rymenzburg Wyna
+subtitle: Tag 8
+cover-img: /assets/pictures/sola26/sola26_801.jpeg
+thumbnail-img: /assets/pictures/sola26/sola26_802.jpeg
+tags: [blog, lager, sola]
+author: Licorne
+---
+
+# Gefährliche Spuren im Verbotenen Wald
+
+Gestern machten sich die Pfadis spät am Abend bis heute Nachmittag auf die Suche nach den entlaufenen magischen Kreaturen. Dank Hagrids einfachem Lassotrick gelang es ihnen schon bald, einige der Tiere wieder sicher einzufangen und zurückzubringen.
+Doch die Freude über die ersten Erfolge hielt nicht lange an. Tief im Verbotenen Wald entdeckte Hagrid grosse Kratzspuren, die von einer uralten Kreatur stammen. Eigentlich galt dieses Wesen seit fünfzehn Jahren als ausgestorben. Schnell wurde allen klar: Offenbar hatte die Zeitreise mehr verändert, als zunächst angenommen.
+Hagrid vermutete, dass die Zauberlehrlinge unbemerkt einen unerwünschten Gast aus der Vergangenheit mit in die Gegenwart gebracht hatten. Er warnte eindringlich vor der gefährlichen Kreatur und erklärte, dass eine unvorbereitete Begegnung viel zu riskant wäre.
+Bevor die Suche weitergehen kann, wird deshalb eine intensive Ausbildung auf dem Programm stehen. Ob es den Zauberlehrlingen gelingt, sie aufzuspüren und alle entlaufenen Tiere sicher nach Hause zu bringen, wird sich schon bald zeigen.
+
+![](/assets/pictures/sola26/sola26_802.JPG) 
+![](/assets/pictures/sola26/sola26_803.jpeg)
+
