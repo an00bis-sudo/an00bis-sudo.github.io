@@ -35,3 +35,7 @@ Seid ihr im Besitz einer Kulturlegi, könnt ihr euch direkt an die Abteilungelei
 
 ### Pfadiheim
 Unser tolles Pfadiheim bietet alles was das Pfadiherz begehrt! Es befindet sich in ruhiger Lage, am Steiner Dorfrand, gegenüber des Feuerwehrmagazins, am Sportplatzweg, 4332 Stein. [Google Maps](https://maps.app.goo.gl/fRyNXKjTyYf8EQ949) | [OpenStreetMap](https://www.openstreetmap.org/way/169547719)
+
+### Gemeindefinder Stein
+Du findest uns auch auf im Vereinsverzeichnis der Gemeinde Stein im [Gemeindefinder](https://gemeinde-schweiz.ch/kanton-aargau/stein/#vereine)
+[![Gemeindefinder](/assets/img/gemeindefinder.png)](https://gemeinde-schweiz.ch/kanton-aargau/stein)
