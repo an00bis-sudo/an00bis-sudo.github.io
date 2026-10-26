@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Die Pfadi Thierstein Stein sucht Verstärkung! ⚜️
-cover-img: /assets/pictures/team/team01.png 
-thumbnail-img: /assets/pictures/team/team02.jpeg 
+cover-img: /assets/pictures/team/team02.jpg 
+thumbnail-img: /assets/pictures/team/team01.png 
 tags: [Neuleiterinnen, Neuleiter, Quereinsteigerinnen, Quereinsteiger, Wir suchen dich!]
 author: Licorne
 ---
