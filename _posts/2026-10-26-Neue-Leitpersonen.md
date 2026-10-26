@@ -7,7 +7,7 @@ tags: [Neuleiterinnen, Neuleiter, Quereinsteigerinnen, Quereinsteiger, Wir suche
 author: Licorne
 ---
 
-# Die Pfadi Thierstein Stein sucht Verstärkung! ⚜️
+# Lust Aktivitäten für Kinder zu leiten? ⚜️
 
 Wir suchen motivierte junge Erwachsene ab 16 Jahren, die unser Leitungsteam bereichern möchten. 
 Du brauchst keine Pfadi-Erfahrung. Viel wichtiger sind deine Freude am Umgang mit Kindern und Jugendlichen, deine Motivation und die Lust, Neues auszuprobieren. Dabei kannst du eigene Ideen einbringen, Verantwortung übernehmen und Freundschaften knüpfen, die ein Leben lang halten
