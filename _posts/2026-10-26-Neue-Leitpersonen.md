@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Die Pfadi Thierstein Stein sucht Verstärkung! ⚜️
-cover-img: /assets/pictures/team/team01.jpeg 
+cover-img: /assets/pictures/team/team01.png 
 thumbnail-img: /assets/pictures/team/team02.jpeg 
 tags: [Neuleiterinnen, Neuleiter, Quereinsteigerinnen, Quereinsteiger, Wir suchen dich!]
 author: Licorne
@@ -15,4 +15,4 @@ Neugierig geworden?
 Dann melde dich gerne bei Kjara unter 079 178 65 15 oder per Mail an abteilung@pfadithierstein.ch. Wir erzählen dir gerne mehr und freuen uns, dich kennenzulernen!
 Wir freuen uns auf dich!
 
-![](/assets/pictures/team/team01.jpeg) 
+![](/assets/pictures/team/team01.png) 
